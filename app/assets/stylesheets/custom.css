@@ -136,20 +136,20 @@ h2.explain{line-height:34px;}
 
 
 /*PORTFOLIO*/
-#portfolio{padding-top:100px; margin-top: 80px; padding-bottom:80px;}
+#projects{padding-top:100px; margin-top: 80px; padding-bottom:80px;}
 .port{background:#eee; padding:80px 0; color: #000;}
-.portfolio .span4{margin-bottom:12px;}
+.projects .span4{margin-bottom:12px;}
 
-.portfoliocarousel h2{font-size:12px; line-height:14px; text-transform: uppercase;}
-.portfoliocarousel p{margin:0px;}
+.projectscarousel h2{font-size:12px; line-height:14px; text-transform: uppercase;}
+.projectscarousel p{margin:0px;}
 
-.portfolio figure{margin:0; margin-right:5px; margin-bottom:10px;}
+.projects figure{margin:0; margin-right:5px; margin-bottom:10px;}
 
 
 /*CONTACT*/
 .contact{}
 #contact{padding-top:80px; padding-bottom:80px;}
-#contact h2,#about h2,#portfolio h2{font-weight:200; text-align: center; font-size:3em; color: #f30; text-transform:uppercase; line-height:2em;}
+#contact h2,#about h2,#projects h2{font-weight:200; text-align: center; font-size:3em; color: #f30; text-transform:uppercase; line-height:2em;}
 
 
 /*CONTACT Map*/

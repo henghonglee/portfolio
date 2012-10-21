@@ -1,6 +1,6 @@
 $(window).load(function(){ 
   
-    var $container = $('.portfolio'); 
+    var $container = $('.projects'); 
     $container.isotope({ 
         filter: '*', 
         animationOptions: { 
